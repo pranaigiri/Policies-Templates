@@ -1,34 +1,46 @@
-Privacy Policy for Dukan Tools
+Privacy Policy  
+----------------
 
-Effective Date: 06 August 2023
+### Introduction  
+Our privacy policy will help you understand what information we collect at *Dukan Tools*, how *Dukan Tools* uses it, and what choices you have.
+*The Designer Sikkim* built the *Dukan Tools* app as a free app. This SERVICE is provided by *Dukan Tools* at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
-At Dukan Tools, we are committed to ensuring the privacy and security of our users. This Privacy Policy outlines how we collect, use, and protect any information you provide when using our application.
+### Information Collection and Use  
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+The app does use third party services that may collect information used to identify you. 
 
-Information Collection and Usage:
-Dukan Tools does not collect any personal information or data from users or their devices. We do not require you to create an account or provide any personal details to use our application.
+### Cookies  
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-Non-Personal Information:
-Our application may collect non-personal information such as device information and anonymous usage data. This information is used solely for analytical purposes to help us improve the performance and user experience of the application.
+This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-Data Storage and Security:
-As no personal information is collected, we do not store any user data on our servers. All calculations and actions performed within the Dukan Tools application remain solely on your device.
+### Location Information  
+Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-Data Sharing:
-We do not share any information collected by the application with third parties. Your privacy is of utmost importance to us, and we are committed to maintaining the confidentiality of your data.
+### Device Information  
+We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
-User Rights:
-As we do not collect any personal information, you do not have any account-related rights regarding data access, updates, or deletion. You have full control over your data stored on your device.
+### Service Providers  
+We may employ third-party companies and individuals due to the following reasons:  
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.  
 
-Bug Fixes and Updates:
-Dukan Tools regularly releases updates on the Google Play Store to improve the functionality and performance of the application. These updates may include bug fixes, feature enhancements, and performance optimizations.
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
-Children's Privacy:
-Dukan Tools is not directed towards children under the age of 13. We do not knowingly collect any information from children under 13 years of age.
+### Security  
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
-Changes to the Privacy Policy:
-Any changes to this Privacy Policy will be communicated through updates on the Google Play Store. It is recommended to review this Privacy Policy periodically for any modifications.
+### Children’s Privacy  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
-Contact Us:
-If you have any questions or concerns regarding this Privacy Policy or the practices of Dukan Tools, please contact us at thedesignersikkim@gmail.com.
+### Changes to This Privacy Policy  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
-By using Dukan Tools, you agree to the terms outlined in this Privacy Policy.
+### Contact Us  
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
+Contact Information:  
+Email: *thedesignersikkim@gmail.com*  
